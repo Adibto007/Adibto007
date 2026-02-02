@@ -24,8 +24,7 @@
 
 -  Experiencia en desarrollo en entornos Linux (Ubuntu) y Windows
 
--  Desarrollador full-stack por pasión, con enfoque en mejora </br>
-   continua sin encasillarme en front o back)
+-  Desarrollador full-stack por pasión, con enfoque en mejora continua sin encasillarme en front o back)
 
 <br/>
 
