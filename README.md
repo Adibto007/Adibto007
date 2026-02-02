@@ -1,39 +1,35 @@
 
 <h1 align="center"><b>Hola, soy Jhoan Hernandez  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10F738&width=435&lines=Apasionado+desarrollador+de+software" alt="Typing SVG" /></a>
-</p>
-
+</br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture> <img src="https://img.icons8.com/?size=100&id=xUROKwrjyYiU&format=png&color=000000" width="25"></picture> **About me**
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
--  I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+-  Tecnólogo en Análisis y Desarrollo de Software enfocado en aplicaciones web y móviles
 
--  I’m currently Working on Mobile App(React-Native)
+-  Experiencia en React, Vue y Next.js para interfaces modernas y escalables
 
--  I’m available for freelancing.
+-  Desarrollo backend con Go, Java, C, Nodejs y PHP
 
--  I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+-  Uso de Firebase (Auth, Firestore y Hosting) para soluciones rápidas y seguras
 
--  I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+-  Manejo de bases de datos MySQL y PostgreSQL
 
--  Ask me about **Reactjs & React-Native**
+-  Perfil líder, empático y con comunicación efectiva, trabajo en Scrum
 
--  How to reach me **saurabhchavan052@gmail.com**
+-  Desarrollador full-stack por pasión, con enfoque en mejora continua (sin encasillarme en front o back)
 
--  Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+-  Experiencia en desarrollo en entornos Linux (Ubuntu) y Windows
 <br/>
 
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 <!-- Frontend -->
