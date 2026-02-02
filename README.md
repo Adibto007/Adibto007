@@ -22,10 +22,11 @@
 
 -  Perfil líder, empático y con comunicación efectiva, trabajo en Scrum
 
+-  Experiencia en desarrollo en entornos Linux (Ubuntu) y Windows
+
 -  Desarrollador full-stack por pasión, con enfoque en mejora </br>
    continua sin encasillarme en front o back)
 
--  Experiencia en desarrollo en entornos Linux (Ubuntu) y Windows
 <br/>
 
 <br><br>
