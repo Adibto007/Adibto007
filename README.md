@@ -4,7 +4,7 @@
 </br>
 
 	
-## <picture> <img src="https://img.icons8.com/?size=100&id=xUROKwrjyYiU&format=png&color=000000" width="25"></picture> **About me**
+## <picture> <img src="https://img.icons8.com/?size=100&id=xUROKwrjyYiU&format=png&color=000000" width="25"></picture> **Sobre mi**
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
